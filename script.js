@@ -14,6 +14,11 @@ const questions = [
         questio: "2 + 2...?",
         respostaCorrecta: "4",
         respostaIncorrecta: "5",
+    },
+    {
+        questio: "Quànts cors tenen els pops?",
+        respostaCorrecta : "3",
+        respostaIncorrecta : "1"
     }
 ];
 
